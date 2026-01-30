@@ -1,2 +1,14 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# What Are Docker and Kubernetes and Why Do I Need Them?
+
+## Article Link
+https://testrigor.com/blog/what-is-docker-and-kubernetes-and-why-do-i-need-it/
+
+---
+
+## My Comments About the Article
+
+I chose this article because I had always been somewhat confused about the difference between Docker and Kubernetes and how they fit into modern software development. Although I knew they were important tools in DevOps and cloud environments, I did not have a clear mental model of what each one actually does.
+
+This article helped clarify that Docker is primarily used for packaging applications into portable containers, while Kubernetes is responsible for managing and orchestrating those containers at scale. Kubernetes handles tasks such as deployment, scaling, and recovery from failures.
+
+Learning about these features made me realize why these tools are essential in real-world production systems. The article also showed how containerization plays a key role in building reliable and scalable software systems, which helped me better understand how modern applications are developed and maintained.
